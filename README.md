@@ -29,7 +29,7 @@
 ## 📌 Table of Contents
 
 - [About the Project](#-about-the-project)
-- [The Two Layers](#-the-two-layers)
+- [The Three Layers](#-the-two-layers)
 - [Scenarios in Scope](#-scenarios-in-scope-mvp)
 - [How to Use the Prototype](#-how-to-use-the-prototype)
 - [Market Research & Validation](#-market-research--validation)
