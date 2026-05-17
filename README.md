@@ -358,7 +358,7 @@ Overlay frequency and thresholds calibrated to individual driver trust profiles 
 |------|--------|--------------|
 | **Prarthana Patel** | UCLA Anderson | GitHub repository, Eval summary, Interview Analysis, UX Study |
 | **Rafael Manansala** | UCLA Anderson | PR-FAQ, product narrative, Interview Experimentation, Interactive prototype |
-| **Abhisek Jose Selvakumar** | UCLA Anderson | Source of truth, research synthesis, Loom walkthrough |
+| **Abhishek Joseph Selvakumar** | UCLA Anderson | Source of truth, research synthesis, Loom walkthrough |
 
 ---
 
@@ -387,6 +387,6 @@ Overlay frequency and thresholds calibrated to individual driver trust profiles 
 
 *MGMT 275 · UCLA Anderson School of Management · May 2026*
 
-*Prarthana Patel · Rafael Manansala · Abhisek Jose Selvakumar*
+*Prarthana Patel · Rafael Manansala · Abhishek Joseph Selvakumar*
 
 </div>
